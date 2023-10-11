@@ -1,4 +1,2 @@
-# Projects
-
 # Python Projects
 
